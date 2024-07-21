@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/BestFood/static/css/main.04de5115.css",
+    "main.js": "/BestFood/static/js/main.2973812d.js",
+    "static/media/headLineCard1.png": "/BestFood/static/media/headLineCard1.10ef3b9aa2f95cc820af.png",
+    "static/media/headLineCard3.png": "/BestFood/static/media/headLineCard3.3079dd0e144feb446daa.png",
+    "static/media/headLineCard2.png": "/BestFood/static/media/headLineCard2.981aced18a417bbf46ed.png",
+    "static/media/burger.png": "/BestFood/static/media/burger.1973e57e5a653a61f176.png",
+    "index.html": "/BestFood/index.html",
+    "main.04de5115.css.map": "/BestFood/static/css/main.04de5115.css.map",
+    "main.2973812d.js.map": "/BestFood/static/js/main.2973812d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04de5115.css",
+    "static/js/main.2973812d.js"
+  ]
+}
