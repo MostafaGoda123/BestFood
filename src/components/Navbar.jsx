@@ -27,7 +27,7 @@ const Navbar = () => {
          </div>
          <button className="flex gap-2 items-center bg-black text-white"><FaShoppingCart />Cart</button>
          {openMenu && 
-         <section className='duration-300 fixed left-0 top-0 w-full h-[100vh] bg-[rgba(0,0,0,0.8)]'>
+         <section className='duration-300 fixed left-0 top-0 w-full h-[100vh] bg-[rgba(0,0,0,0.8)] z-50'>
             <motion.ul className='bg-white h-full w-52 p-5 flex flex-col gap-5'
             initial={{x:'-100%',y:-200}}
             whileInView={{x:0 , y:0 ,transitionDuration:5000}}>
